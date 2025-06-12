@@ -107,7 +107,7 @@ This ERD represents a cafe management system with five main modules: Menu Manage
 
 #### 1. Login Page 
 
-![login page ](https://github.com/user-attachments/assets/ac55bd7e-cf15-4ccb-9326-2a9650e4297b) 
+![login page ](https://github.com/user-attachments/assets/54d71794-dc27-4f25-8a4e-24e633d5a7b9) 
 
 #### 2. Sign Up Page 
 
