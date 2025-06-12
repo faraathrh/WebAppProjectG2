@@ -127,7 +127,7 @@ This ERD represents a cafe management system with five main modules: Menu Manage
 
 #### 6. Sales Report Page 
 
-![sales report page]() 
+![sales report page](https://github.com/user-attachments/assets/9356b4dc-d061-447c-b3c8-51e7897e4ab9) 
 
 #### 7. Customer List Page 
 
