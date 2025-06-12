@@ -1,10 +1,9 @@
 @extends('master.layout')
 @section('content')
 
-<section id="menu" class="menu section">
+<section id="pos" class="menu section">
     <div class="container section-title" data-aos="fade-up">
-        <h2>Menu</h2>
-        <h4>Explore our delicious offerings</h4>
+        <h2>Ordering System</h2>
     </div>
 
     <div class="container" data-aos="fade-up">
@@ -76,7 +75,7 @@
                                 <h5>Hot Matcha Latte</h5>
                                 <p class="mb-1">Smooth and creamy matcha latte.</p>
                                 <div class="price">RM 9.00</div>
-                                <input type="hidden" name="name" value="Hot Matcha">
+                                <input type="hidden" name="name" value="Hot Matcha Latte">
                                 <input type="hidden" name="price" value="9.00">
                                 <input type="number" name="quantity" value="1" min="1" class="form-control mb-2" style="width:80px;">
                                 <select name="type" class="form-control mb-2">
