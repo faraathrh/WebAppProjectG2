@@ -107,31 +107,31 @@ This ERD represents a cafe management system with five main modules: Menu Manage
 
 #### 1. Login Page 
 
-![login page ](login.png) 
+![login page ](<img width="1470" alt="Screenshot 2025-06-12 at 16 40 55" src="https://github.com/user-attachments/assets/04d35736-8095-42d5-8a59-679c1abcd741" />) 
 
 #### 2. Sign Up Page 
 
-![sign up page](signup.png) 
+![sign up page]() 
 
 #### 3. Menu Page 
 
-![menu page](menu.png) 
+![menu page]() 
 
 #### 4. Place Order Page 
 
-![place order page](placeorder.png) 
+![place order page]() 
 
 #### 5. Stock Page 
 
-![stock page](stock.png) 
+![stock page]() 
 
 #### 6. Sales Report Page 
 
-![sales report page](salesreport.png) 
+![sales report page]() 
 
 #### 7. Customer List Page 
 
-![pcustomer list page](customerlist.png)  
+![pcustomer list page]()  
 
 
 ## REFERENCES
